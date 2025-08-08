@@ -77,6 +77,10 @@ rainy,75.0,80.0,false,yes
 14) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+# EMPLOYEE
+<img width="621" height="309" alt="Screenshot 2025-08-08 110006" src="https://github.com/user-attachments/assets/23e4f7bc-2bcf-419c-b584-8b229aa580ba" />
+
+# WEATHER
 <img width="723" height="438" alt="Screenshot 2025-08-08 110638" src="https://github.com/user-attachments/assets/d9e43252-14c0-4754-a398-0943692d320a" />
 
 ### 2) Remove -> Pre-Processing Technique:
@@ -94,6 +98,10 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+# EMPLOYEE
+<img width="432" height="333" alt="Screenshot 2025-08-08 110223" src="https://github.com/user-attachments/assets/2561a9cc-3190-43d8-8fb4-9a8d8ca28290" />
+
+# WEATHER
 <img width="547" height="399" alt="Screenshot 2025-08-08 110744" src="https://github.com/user-attachments/assets/8a3e4e4c-ff55-4332-8383-15ceff3713b0" />
 
 ### Normalize -> Pre-Processing Technique:
@@ -111,6 +119,10 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table with normalized values on Weka.
 
 ### OUTPUT:
+# EMPLOYEE
+<img width="431" height="356" alt="Screenshot 2025-08-08 110248" src="https://github.com/user-attachments/assets/42bd1909-aeba-49c8-b951-0ca62a687490" />
+
+# WEATHER
 <img width="642" height="456" alt="Screenshot 2025-08-08 110834" src="https://github.com/user-attachments/assets/3c05b84a-8aa4-4868-856d-69fea5040c3d" />
 
 ### RESULT: 
