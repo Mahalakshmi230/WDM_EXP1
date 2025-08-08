@@ -53,9 +53,10 @@ rainy,75.0,80.0,false,yes
 8) Click on edit button which shows employee table on weka.
 
 ### OUTPUT:
-![Screenshot 2024-08-16 221051](https://github.com/user-attachments/assets/f49fc750-eb6c-4e30-ac29-a9aff0b8e1d0)
+<img width="556" height="328" alt="Screenshot 2025-08-08 105627" src="https://github.com/user-attachments/assets/53bee034-0a59-4c69-a605-830057e75fc4" />
 
-![Screenshot 2024-08-16 221123](https://github.com/user-attachments/assets/05446074-b511-4804-bc3a-a549e2132743)
+<img width="576" height="425" alt="Screenshot 2025-08-08 110513" src="https://github.com/user-attachments/assets/c39f7f16-7f90-461f-926a-193f9dce784c" />
+
 
 ### PREPROCESSING
 ### Procedure:
